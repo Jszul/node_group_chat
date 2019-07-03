@@ -1,0 +1,28 @@
+{
+  "name": "group-chat",
+  "version": "1.0.0",
+  "description": "node js app that uses socket.io for communication simplicity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jszul/node_group_chat.git"
+  },
+  "keywords": [
+    "nodejs",
+    "socket.io"
+  ],
+  "author": "Joseph Szul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jszul/node_group_chat/issues"
+  },
+  "homepage": "https://github.com/Jszul/node_group_chat#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
