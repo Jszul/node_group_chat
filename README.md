@@ -1,6 +1,6 @@
-#Simple group chat application using socket.io module for connectivity
+Simple group chat application using socket.io module for connectivity
  
-#Modules
+Modules
 socket.io
 express
 ejs
